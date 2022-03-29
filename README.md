@@ -4,7 +4,7 @@ ERP
 Descrição
 -----------
 
-- Esse projeto possui o Back -End em laravel 7.0.
+- Esse projeto possui o Back-End em laravel 7.0. ( https://github.com/JoelsonPires/ERPLaravelBackEnd.git)
 - Esse projeto possui o Front-End em Vue.
 
 Neste projeto foi utilizado o **VueJS** e **Vuetify** juntamento com **axios** para as requisições **HTTP**
